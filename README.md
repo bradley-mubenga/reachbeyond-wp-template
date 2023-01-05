@@ -1,2 +1,2 @@
-# Reach Beyond WordPress template
-This is a repository for the reach beyond WordPress template
+Reach Beyond WordPress template
+Tailored WordPress theme for digital marketing agency.
